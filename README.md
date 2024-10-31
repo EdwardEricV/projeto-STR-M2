@@ -18,10 +18,10 @@ pelo fio (do nodo até o computador). Os deadlines relativos para uma ação de 
 detecção do sensor) são:
 
 * Injeção eletrônica: 500 us após alteração no pedal
-• Temperatura do motor: 20 ms após detecção de temperatura acima do limite
-• ABS: 100 ms após acionamento no pedal
-• Airbag: 100 ms após detecção de choque
-• Cinto de segurança: 1 segundo após carro em movimento
+* Temperatura do motor: 20 ms após detecção de temperatura acima do limite
+* ABS: 100 ms após acionamento no pedal
+* Airbag: 100 ms após detecção de choque
+* Cinto de segurança: 1 segundo após carro em movimento
 
 O computador de bordo deve também alimentar um display para o usuário com alertas de
 informações (mensagens com caracteres). A atualização do display deverá sempre ser de 1s.
